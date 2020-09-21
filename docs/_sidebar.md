@@ -1,12 +1,17 @@
-* SpringBoot2.x入门系列
+- 设计模式
 
- * [依赖管理](spring-boot-guide/依赖管理-common.md)
- * [快速创建一个SpringBoot应用](spring-boot-guide/快速创建一个SpringBoot应用-common.md)
- * [引入web模块](spring-boot-guide/引入web模块-common.md)
- * [理解配置文件](spring-boot-guide/理解配置文件-common.md)
- * [应用打包与启动](spring-boot-guide/应用打包与启动-common.md)
- * [使用CommandLineRunner钩子接口](spring-boot-guide/使用CommandLineRunner钩子接口-common.md)
- * [引入jdbc模块与JdbcTemplate简单使用](spring-boot-guide/引入jdbc模块与JdbcTemplate简单使用-common.md)
- * [使用MyBatis](spring-boot-guide/使用MyBatis-common.md)
-  
-  
+  - [第一章节](desgin-pattern/Java面试必备：手写单例模式.md)
+  - [工厂模式](desgin-pattern/工厂模式超详解（代码示例）.md)
+  - [原型模式](desgin-pattern/设计模式之原型模式.md)
+  - [代理模式](desgin-pattern/设计模式之代理模式.md)
+
+- Spring框架
+
+  - [初识spring框架](spring/【10分钟学Spring】：（一）初识Spring框架.md)
+  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
+  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
+
+- 数据库
+
+
+- [来撩我啊](callme.md)

@@ -1,12 +1,9 @@
-![logo](https://public-1256189093.cos.ap-guangzhou.myqcloud.com/static/leaf.svg)
 
-# Spring Album <small>0.0.1</small>
+# Myblogs
 
-> 试下写个Spring相关的专栏，这是原始版本，暂定包括下面的栏目：
 
-- `SpringBoot2.x`入门系列 
-- `SpringBoot2.x`进阶和实战
-- `SpringBoot`源码系列
+> 我要开始装逼了
 
-[GitHub](https://github.com/zjcscut/spring-boot-guide)
-[Get Started](#Spring)
+
+[CSDN](https://blog.csdn.net/m0_37965018)
+[滚动鼠标](#introduction)

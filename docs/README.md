@@ -1,5 +1,6 @@
-# Spring
+# 最迷人的二营长
 
-> 这是一个神奇的主页
+> [个人博客](https://blog.csdn.net/m0_37965018)
 
-![](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/static/img/error.jpg)
+
+> [GitHub](https://github.com/Corefo/ "github")
